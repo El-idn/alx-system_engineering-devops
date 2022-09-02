@@ -1,1 +1,3 @@
-where am i
+clear
+cd root
+
