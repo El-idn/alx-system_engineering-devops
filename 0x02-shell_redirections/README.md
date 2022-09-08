@@ -1,1 +1,1 @@
-Write a script that deletes all the regular files
+Display the number of lines that contain the pattern
