@@ -1,1 +1,1 @@
-Display the number of lines that contain the pattern
+Write a script that displays all users and their home directories, sorted by users
